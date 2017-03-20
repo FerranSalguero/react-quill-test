@@ -1,0 +1,26 @@
+{
+  "name": "react-quill-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "webpack.config.js",
+  "dependencies": {
+    "react": "^15.4.2",
+    "webpack": "^2.2.1"
+  },
+  "devDependencies": {
+    "react-quill": "^0.4.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/FerranSalguero/react-quill-test.git"
+  },
+  "author": "Ferran Salguero",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FerranSalguero/react-quill-test/issues"
+  },
+  "homepage": "https://github.com/FerranSalguero/react-quill-test"
+}
